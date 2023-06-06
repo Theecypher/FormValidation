@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aquamarine;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aquaine;
+}
+div {
+  margin: 20px;
+}
+input {
+  width: 100%;
+  outline: none;
+  padding: 5px;
+}
+.btn {
+  margin: 10px 20px;
+  border-radius: 10px;
+  width: 80%;
+  border: none;
+  outline: none;
+  font-size: 1.1rem;
+  background-color: green;
+}
